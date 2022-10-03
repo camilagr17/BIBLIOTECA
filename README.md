@@ -1,8 +1,19 @@
+# bank_fe
 
-# proyect-Library
-project cycle 3 misiontic 2022 Unal software to manage a library
+## Project setup
+```
+npm install
+```
 
-## Description
-administrative system that allows you to keep track of the inventory of books and rentals made by customers
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
 
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
